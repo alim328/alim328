@@ -1,7 +1,7 @@
 # Merhaba, Ben AlİM! 👋
 ### Oyun, Web ve Robotik Tutkunu Bir Software Developer
 
-![Profil Banner](https://github.com/user-attachments/assets/426218e4-0e35-4311-8be1-680ed0fde024)
+![Profil Banner](1.png)
 
 
 ![Uploading 7ccdb9e1-c193-425e-975c-7a58590b288e.png…]()
