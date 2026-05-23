@@ -29,9 +29,8 @@
 
 ### 🎮 Eğlence Zamanı!
 
-Profilimde gezinirken canın mı sıkıldı? Senin için özel kodladığım neon temalı yılan oyununu tarayıcında oynamak için aşağıdaki butona basman yeterli!
 
-[![Yılan Oyununu Oyna](https://img.shields.io/badge/YILAN_OYUNUNU_OYNA-🧠-00ffcc?style=for-the-badge&logo=gamepad&logoColor=white)](https://alim328.github.io/yilan.html)
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
