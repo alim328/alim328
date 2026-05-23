@@ -1,4 +1,7 @@
-<h1 align="center">Merhaba, Ben alim328! 👋</h1>
+ <img width="1536" height="1024" alt="ChatGPT Image 23 May 2026 09_48_49" src="https://github.com/user-attachments/assets/426218e4-0e35-4311-8be1-680ed0fde024" />
+ <h1 align="center">Merhaba, Ben AlİM! 👋</h1>
+
+
 <h3 align="center">Oyun, Web ve Robotik Tutkunu Bir Software Developer</h3>
 
 <p align="center">
