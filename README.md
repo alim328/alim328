@@ -1,21 +1,11 @@
-<p align="center">
-  <img width="1536" height="1024" alt="Profil Banner" src="https://github.com/user-attachments/assets/426218e4-0e35-4311-8be1-680ed0fde024" />
-</p>
+# Merhaba, Ben AlİM! 👋
+### Oyun, Web ve Robotik Tutkunu Bir Software Developer
 
-<h1 align="center">Merhaba, Ben AlİM! 👋</h1>
-<h3 align="center">Oyun, Web ve Robotik Tutkunu Bir Software Developer</h3>
+![Profil Banner](https://github.com/user-attachments/assets/426218e4-0e35-4311-8be1-680ed0fde024)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alim328&label=Profil+Görüntülenme&color=blue&style=flat" alt="alim328" />
-</p>
+![Profil Görüntülenme](https://komarev.com/ghpvc/?username=alim328&label=Profil+Görüntülenme&color=blue&style=flat)
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-snake.azurewebsites.net/github-contribution-grid-snake.svg?username=alim328&style=dark" alt="Snake Game" width="100%" />
-</p>
-
-<br>
+---
 
 ### 🚀 Hakkımda
 
@@ -27,21 +17,13 @@
 
 ### 🛠️ Kullandığım Teknolojiler ve Diller
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alim328&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alim328&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -49,8 +31,4 @@
 
 Profilimde gezinirken canın mı sıkıldı? Senin için özel kodladığım neon temalı yılan oyununu tarayıcında oynamak için aşağıdaki butona basman yeterli!
 
-<p align="center">
-  <a href="https://alim328.github.io/yilan.html">
-    <img src="https://img.shields.io/badge/YILAN_OYUNUNU_OYNA-🧠-00ffcc?style=for-the-badge&logo=gamepad&logoColor=white" alt="Yılan Oyununu Oyna" />
-  </a>
-</p>
+[![Yılan Oyununu Oyna](https://img.shields.io/badge/YILAN_OYUNUNU_OYNA-🧠-00ffcc?style=for-the-badge&logo=gamepad&logoColor=white)](https://alim328.github.io/yilan.html)
